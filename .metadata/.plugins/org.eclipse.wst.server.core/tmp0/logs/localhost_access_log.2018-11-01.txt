@@ -1,0 +1,13 @@
+127.0.0.1 - - [01/Nov/2018:13:09:54 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:09:55 +0900] "GET /WebProj/ HTTP/1.1" 404 1035
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:14:55 +0900] "GET /WebProj/ HTTP/1.1" 404 1035
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:16:14 +0900] "GET /WebProj/ HTTP/1.1" 404 1035
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:29:56 +0900] "GET /WebProj/ HTTP/1.1" 404 1035
+127.0.0.1 - - [01/Nov/2018:13:32:44 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:32:47 +0900] "GET /WebProj/ HTTP/1.1" 200 460
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:32:51 +0900] "POST /WebProj/HelloStrutsAction.action;jsessionid=9008576AD9B32840BEA7557DEF8C29DA HTTP/1.1" 404 1053
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:32:56 +0900] "POST /WebProj/HelloStrutsAction.action;jsessionid=9008576AD9B32840BEA7557DEF8C29DA HTTP/1.1" 404 1053
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:34:01 +0900] "GET /WebProj/ HTTP/1.1" 200 416
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:34:03 +0900] "POST /WebProj/HelloStrutsAction.action HTTP/1.1" 404 1053
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:35:16 +0900] "GET /WebProj/ HTTP/1.1" 200 416
+0:0:0:0:0:0:0:1 - - [01/Nov/2018:13:35:18 +0900] "POST /WebProj/HelloStrutsAction.action HTTP/1.1" 200 147
