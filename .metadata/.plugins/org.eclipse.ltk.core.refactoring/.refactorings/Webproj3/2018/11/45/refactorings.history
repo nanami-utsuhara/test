@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="リソース名 &apos;Webproj3/WebContent/Hello.jsp&apos; を &apos;hello.jsp&apos; に変更します" description="リソース &apos;Hello.jsp&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/Hello.jsp" name="hello.jsp" stamp="1541394893410" updateReferences="true"/>&#x0A;<refactoring accessors="true" comment="Delete element from プロジェクト &apos;Webproj3&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;Webproj3&apos;&#x0D;&#x0A;- オリジナル要素: &apos;testdb_3.sql&apos;" description="要素を削除" element1="sql/testdb_3.sql" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1541406942819" subPackages="false" version="1.0"/>
+</session>
